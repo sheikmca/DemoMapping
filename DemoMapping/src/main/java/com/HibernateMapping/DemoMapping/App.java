@@ -54,6 +54,7 @@ public class App
 		
 		System.out.println("Test");
 		
+		System.out.println("Test1");
 		
 	/*	Configuration con  = new Configuration().configure().addAnnotatedClass(Student.class).addAnnotatedClass(Laptop.class);	        
 
